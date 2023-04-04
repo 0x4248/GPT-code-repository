@@ -73,9 +73,7 @@ if __name__ == "__main__":
 ## Prompt
 
 ```
-
 Make me a program in any language that is more than 20 lines of code long and is complex and interesting.
 
 When you create the program make a title for it and a short description of what it does.
-
 ```

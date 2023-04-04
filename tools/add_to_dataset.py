@@ -59,8 +59,8 @@ if __name__ == "__main__":
         f.write("## Prompt\n\n")
         with open("ADD_PROMPT.txt", "r") as prompt_file:
             prompt_text = prompt_file.read()
-        f.write("```" + "\n\n")
-        f.write(prompt_text + "\n\n")
+        f.write("```" + "\n")
+        f.write(prompt_text + "\n")
         f.write("```")
     os.remove("ADD_TO_DATASET.txt")
     os.remove("ADD_PROMPT.txt")
