@@ -1,0 +1,7 @@
+Make me a program in rust that is more than 20 lines of code long and is complex and interesting.
+
+Don’t make the program more than 150 lines long
+
+When you create the program make a title for it and a short description of what it does.
+
+Don’t use python and don’t make a game try to make something interesting.
