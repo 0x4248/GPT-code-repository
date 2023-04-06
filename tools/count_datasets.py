@@ -20,6 +20,6 @@ if __name__ == "__main__":
         readme = f.read()
     lines = readme.split("\n")
     lines[4] = "There are `"+str(count)+"` datasets in this repository"
-    lines[5] = "There is a total of `"+str(count_total_lines())+"` lines of code in this repository"
+    lines[6] = "There is a total of `"+str(count_total_lines())+"` lines of code in this repository"
     with open("README.md", "w") as f:
         f.write("\n".join(lines))
