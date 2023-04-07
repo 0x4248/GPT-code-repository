@@ -1,0 +1,5 @@
+Make me a program in Rust that is more than 20 lines of code long and is complex and interesting. The program should contain lots of math
+
+Program should be no more than 150 lines of code
+
+When you create the program make a title for it and a short description of what it does.
