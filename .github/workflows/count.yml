@@ -1,4 +1,4 @@
-name: Count datasets
+name: Count entries
 on:
   push:
     branches:
@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: count
-        run: python3 tools/count_datasets.py
+        run: python3 tools/count_entries.py
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Update readme gif
