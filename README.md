@@ -2,9 +2,9 @@
 This repository contains code examples that chatGPT has generated.
 <img src="https://i.insider.com/63ef9e660270b1001984d9ce?width=2000&format=jpeg&auto=webp" width=400>
 
-
+There are `16` entires in this repository
 There are `14` entries in this repository
-
+There is a total of `846` lines of code in this repository
 There is a total of `846` lines of code in this repository
 
 > **Warning**
