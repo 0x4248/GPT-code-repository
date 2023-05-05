@@ -1,7 +1,5 @@
 import os
 
-import os
-
 def count_total_lines():
     total_lines = 0
     for root, dirs, files in os.walk("repository/"):
