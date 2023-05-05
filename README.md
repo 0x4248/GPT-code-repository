@@ -24,3 +24,4 @@ The entries are in the `repository` folder. In this folder you will find more fo
         └── README.md
 ```
 
+## Languages used

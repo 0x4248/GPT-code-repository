@@ -13,6 +13,8 @@ jobs:
       - uses: actions/checkout@v3
       - name: count
         run: python3 tools/count_entries.py
+      - name: calculate language stats
+        run: python3 tools/calculate_language_stats.py
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Update readme count
