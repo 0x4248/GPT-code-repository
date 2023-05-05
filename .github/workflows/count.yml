@@ -17,5 +17,5 @@ jobs:
         run: python3 tools/calculate_languages.py
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: Update readme count
+          commit_message: Update readme lines and languages count
           file_pattern: '*.md'
