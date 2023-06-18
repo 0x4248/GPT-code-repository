@@ -2,9 +2,9 @@
 This repository contains code examples that chatGPT has generated.
 <img src="https://i.insider.com/63ef9e660270b1001984d9ce?width=2000&format=jpeg&auto=webp" width=400>
 
-There are `36` entires in this repository
+There are `38` entires in this repository
 
-There is a total of `1859` lines of code in this repository
+There is a total of `1942` lines of code in this repository
 
 > **Warning**
 >
@@ -27,11 +27,11 @@ The entries are in the `repository` folder. In this folder you will find more fo
 ## Languages used
 
 ```
-Java: 12.79%
-C: 13.15%
-Python: 46.43%
-Rust: 8.47%
-C++: 15.33%
-JavaScript: 3.83%
+Java: 12.23%
+C: 12.57%
+Python: 48.76%
+Rust: 8.1%
+C++: 14.66%
+JavaScript: 3.67%
 ```
 
