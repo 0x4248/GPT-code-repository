@@ -1,0 +1,18 @@
+{
+    "name": "GPT-code-repository",
+    "description": "This repository contains code examples that chatGPT has generated.",
+    "version": "",
+    "main_file": "none",
+    "author": "Lewis Evans",
+    "license": "none",
+    "url": "https://www.github.com/awesomelewis2007/GPT-code-repository",
+    "email": "none",
+    "languages": [
+        "python",
+        "c++",
+        "c",
+        "java",
+        "javascript"
+    ],
+    "actions": {}
+}
