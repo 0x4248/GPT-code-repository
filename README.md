@@ -27,11 +27,11 @@ The entries are in the `repository` folder. In this folder you will find more fo
 ## Languages used
 
 ```
-JavaScript: 3.67%
+C++: 14.66%
+Rust: 8.1%
 Python: 48.76%
 Java: 12.23%
-C++: 14.66%
 C: 12.57%
-Rust: 8.1%
+JavaScript: 3.67%
 ```
 
