@@ -28,10 +28,10 @@ The entries are in the `repository` folder. In this folder you will find more fo
 
 ```
 Python: 54.56%
-C: 11.15%
-JavaScript: 3.25%
-Rust: 7.18%
 Java: 10.85%
+C: 11.15%
+Rust: 7.18%
+JavaScript: 3.25%
 C++: 13.01%
 ```
 
