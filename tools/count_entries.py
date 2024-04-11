@@ -1,7 +1,7 @@
 # GPT code repository
 # This repository contains code examples that chatGPT has generated.
-# Github: https://www.github.com/lewisevans2007/GPT-code-repository
-# By: Lewis Evans
+# Github: https://www.github.com/0x4248/GPT-code-repository
+# By: 0x4248
 
 import os
 
